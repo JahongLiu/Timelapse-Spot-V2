@@ -1,1 +1,1 @@
-# Timelapse-Spot
+# Rebuild Timelapse-Spot with react redux.
