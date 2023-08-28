@@ -1,4 +1,4 @@
-# Rebuild my first full-stack project with new tech stack.
+# Version 2.0: Rebuild my first full-stack project with a new tech stack.
 
 My first Full-stack project: www.timelapsespot.com
 
