@@ -1,4 +1,4 @@
-# Version 2.0: Rebuild my first full-stack project with new tech stacks and skills.
+# TimelapseSpot Version 2.0: Rebuild my first full-stack project with new tech stacks and skills.
 
 <h1>Overview</h1>
 <p>My first full-stack project: www.timelapsespot.com. This is a website that allows photographers to add, review, rate timelapse spot(location).</p>
