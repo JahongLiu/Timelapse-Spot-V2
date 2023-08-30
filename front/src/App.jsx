@@ -1,8 +1,9 @@
-import { Router, Route } from "react-router-dom";
+import { Router, Route, BrowserRouter } from "react-router-dom";
 import { useState } from "react";
 
 function App() {
-  return <h1>Timelapse Spot</h1>;
+  return;
+  <BrowserRouter></BrowserRouter>;
 }
 
 export default App;
