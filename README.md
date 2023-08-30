@@ -1,5 +1,15 @@
-# Version 2.0: Rebuild my first full-stack project with a new tech stack.
+# Version 2.0: Rebuild my first full-stack project with new tech stacks and skills.
 
-My first full-stack project: www.timelapsespot.com. This was essentially identical to the well-known YelpCamp. It didn't incorporate much of my own thinking or trial and error. Thus, After learned some new skills, I was eager to apply my newfound skills. I feel it's time to rebuild it from scratch.
+<h1>Overview</h1>
+<p>My first full-stack project: www.timelapsespot.com. This is a website that allows photographers to add, review, rate timelapse spot(location).</p>
+The website was almost identical to the full-stack project from the Web Development Bootcamp by Colt Steele. It didn't incorporate much of my own thinking or trial and error. Thus, after acquiring some new skills, I was eager to apply my newfound knowledge. I believe it's time to rebuild it from scratch.
 
-This is a new MERN Stack Application that allows photographers to add, review, rate timelapse spots(locations).
+
+<h1>Architecture</h1>
+<p>This is a <strong>MERN Stack</strong> application <p>
+  <ul>
+    <strong><li>MongDB</li></strong> (A NoSQL database)
+    <strong><li>Express.js</li></strong> (A backend frame work for Node.js)
+    <strong><li>React.js</li></strong> (The JS frontend library/framwork)
+    <strong><li>Node.js</li></strong> (The backend JS runtime)
+  </ul>
