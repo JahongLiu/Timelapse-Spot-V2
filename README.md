@@ -6,7 +6,7 @@ The website was almost identical to the full-stack project from the Web Developm
 
 
 <h1>Architecture</h1>
-<p>This is a <strong>MERN Stack</strong> application <p>
+<p>This is a <strong>MERN Stack, Next.js</strong> application <p> that will be deployed with <strong>Docker, CI/CD</strong>
   <ul>
     <strong><li>MongDB</li></strong> (A NoSQL database)
     <strong><li>Express.js</li></strong> (A backend frame work for Node.js)
